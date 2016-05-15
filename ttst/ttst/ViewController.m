@@ -25,6 +25,11 @@
 //    int a;
 //    int c;
 //    int v;
+    NSLog(@"comid");
+
+    int aidaoisndaoisniaonsd;
+    int aiosnaushdahh;
+    int asidasiodjiasd;
 
 }
 
