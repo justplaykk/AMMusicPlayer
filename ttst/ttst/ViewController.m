@@ -20,7 +20,7 @@
 //  jnsjdnasdj NSLog(@"helloworld");
 
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"hehe");
+    NSLog(@"heheKKK");
 //    NSLog(@"comid");
 //    int a;
 //    int c;
