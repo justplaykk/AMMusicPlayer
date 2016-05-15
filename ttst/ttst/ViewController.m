@@ -31,10 +31,14 @@
 
     int a;
     int b;
+    
+    
+//    hello
+    
 }
 
 - (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
+    [super didReceiv eMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
 
