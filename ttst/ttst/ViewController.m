@@ -31,7 +31,8 @@
     int iajsdiasd;
 
 
-
+    int a;
+    int b;
 }
 
 - (void)didReceiveMemoryWarning {
