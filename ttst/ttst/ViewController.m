@@ -21,18 +21,23 @@
 
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"hehe");
+//    NSLog(@"comid");
+//    int a;
+//    int c;
+//    int v;
     NSLog(@"comid");
 
     int aidaoisndaoisniaonsd;
     int aiosnaushdahh;
     int asidasiodjiasd;
-    
+
 
     int a;
     int c;
     int v;
     int aisaoisjjiajsdasidajsdj;
     int aiosjdoiasjdioj;
+
 
 
 }
