@@ -26,7 +26,9 @@
 //    int c;
 //    int v;
     NSLog(@"comid");
-
+    int  asjdioasdj;
+    int asudnausd;
+    int iajsdiasd;
 
 
 
