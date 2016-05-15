@@ -22,10 +22,16 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"hehe");
     NSLog(@"comid");
+
     int aidaoisndaoisniaonsd;
     int aiosnaushdahh;
     int asidasiodjiasd;
     
+
+    int a;
+    int c;
+    int v;
+
 
 }
 
